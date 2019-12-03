@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+    <channel>
+        <title>Canal RSS de Francisco García</title>
+        <link>http://localhost/PracticaExamen/index.html</link>
+        <description> Noticias de actualidad </description>
+        
+        <item> 
+        <title>Mi noticia de actualidad 1</title>
+        <link>https://www.marca.com/</link>
+        <description> Noticia 2 de actualidad del pais </description>
+        </item>
+      
+        <item> 
+        <title>Mi noticia de actualidad 2</title>
+        <link>https://eldesmarque.com/actualidad/</link>
+        <description> Noticia 2 de actualidad del pais </description>
+        </item>
+
+        <item> 
+        <title>Mi noticia de actualidad 3</title>
+        <link>https://www.elmundo.es/</link>
+        <description> Noticia 3 de actualidad del pais </description>
+        </item>
+    </channel>
+
+</rss>
+© 2019 GitHub, Inc.
