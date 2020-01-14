@@ -14,25 +14,25 @@
 
 <!--Se definen las secciones que forman el canal-->
 <entry>
-<title>El tiempo en Almería</title>
-<link rel="alternate" type="text/html" href="http://www.aemet.es/es/eltiempo/prediccion/municipios/almeria-id0401" />
+<title>Oficial: Quique Setién es el nuevo entrenador del Barcelona</title>
+<link rel="alternate" type="text/html" href="https://www.marca.com/futbol/barcelona/2020/01/13/5e1cb80b268e3e4b278b45e1.html" />
 <updated>2013-11-12T19:19:46Z</updated>
-<id>http://www.aemet.es/es/eltiempo/prediccion/municipios/almeria-id0401</id>
+<id>https://www.marca.com/futbol/barcelona/2020/01/13/5e1cb80b268e3e4b278b45e1.html</id>
 <author>
-<name>Nombre y Apellidos</name>
-<email>nombre@dominio.com</email>
+<name>Francisco José García Villalón</name>
+<email>fj.garciavillalon@iesrodmarin.com</email>
 </author>
-<summary>Consulta el tiempo meteorológico de Almería</summary>
+<summary>FC Barcelona</summary>
 </entry>
 <entry>
-<title>Noticias de interés web</title>
-<link rel="alternate" type="text/html" href="http://desarrolloweb.com/de_interes"/>
+<title>Quique Setién, cruyffista hasta la médula y carácter para recuperar la identidad</title>
+<link rel="alternate" type="text/html" href="https://www.marca.com/futbol/barcelona/2020/01/14/5e1cc104268e3e187a8b45a0.html"/>
 <updated>2013-11-12T19:17:55Z</updated>
-<id>http://desarrolloweb.com/de_interes</id>
+<id>https://www.marca.com/futbol/barcelona/2020/01/14/5e1cc104268e3e187a8b45a0.html</id>
 <author>
-<name>Nombre y Apellidos</name>
-<email>nombre@dominio.com</email>
+<name>Francisco José García Villalón</name>
+<email>fj.garciavillalon@iesrodmarin.com</email>
 </author>
-<summary>Aqui podras encontrar todo tipo de noticias interesantes para los desarrolladores web</summary>
+<summary>FC Barcelona</summary>
 </entry>
 </feed>
